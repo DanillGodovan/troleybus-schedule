@@ -1,20 +1,24 @@
-# Trolleybus-Fahrplan-Anwendung
+# Trolleybus Schedule Application
 
-Dieses Projekt ist eine Webanwendung zur Anzeige von Trolleybus-Fahrplänen für eine ukrainische Stadt. Die Anwendung wurde mit Vue.js und JavaScript entwickelt und dient als Lernprojekt für Webentwicklung und clientseitige UI-Logik.
+This project is a web-based application for displaying trolleybus schedules for a Ukrainian city. It was built using Vue.js and JavaScript and served as a learning project to explore modern frontend development and client-side UI logic.
 
-## Funktionen
+## Features
 
-- Anzeige von Fahrplandaten in Tabellenform
-- Auswahl spezifischer Linien über Dropdown-Menü
-- Vorbereitung auf Integration interaktiver Karten via API
-- Responsive Design
+- Display of schedule data in a clean tabular format
+- Dropdown menu for selecting specific trolleybus lines
+- Responsive layout for various screen sizes
+- Foundation for future integration of interactive maps via public transport APIs
 
-## Ziel
+## Project Goals
 
-Ziel war es, eine benutzerfreundliche Oberfläche für Fahrplanauskunft zu erstellen und dabei moderne JavaScript-Technologien wie Vue.js zu erlernen und praktisch anzuwenden.
+The primary goal of this project was to design a user-friendly frontend for accessing public transportation schedules, while gaining hands-on experience with Vue.js and component-based UI development.
 
-## Technologien
+## Tech Stack
 
-- Vue.js (Composition API)
-- JavaScript
-- HTML / CSS
+- **Vue.js** (Composition API)
+- **JavaScript**
+- **HTML / CSS**
+
+## Educational Use
+
+This project was developed for educational purposes and experimentation with frontend frameworks. All data used was either static or simulated.
